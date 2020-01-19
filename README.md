@@ -15,8 +15,8 @@ Official API Documentation for [BEEP](https://beep.solutions).
 
 | Environment| Base URL
 |---|---|
-| Testing | https://api.uat.beep.solutions           
-| Production| https://api.beep.solutions                       
+| Testing | https://api.uat.beep.solutions/public          
+| Production| https://api.beep.solutions/public              
 
 ## Authentication
 
